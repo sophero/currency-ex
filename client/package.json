@@ -2,7 +2,8 @@
   "name": "currency-ex",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://localhost:6666",
+  "proxy": "http://localhost:6666",
+  "homepage": "https://currency-ex.herokuapp.com",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
